@@ -1,0 +1,54 @@
+{
+  "call_id": "CALL-DA-2026-9812",
+  "timestamp": "2026-10-22T10:14:00+05:30",
+  "channel": "WhatsApp Video Call",
+  "caller_caller_id": "+91-98765-XXXXX (Spoofed Police Control Number)",
+  "caller_claimed_identity": "Inspector Vijay Rathore",
+  "caller_claimed_department": "Mumbai Cyber Crime Branch & CBI Liaison Unit",
+  "scam_type": "Digital Arrest & Supreme Court Warrant Extortion",
+  "coercive_indicators": [
+    "Fake Authority Claims",
+    "Threats & Legal Coercion",
+    "Extreme Urgency",
+    "Secrecy & Isolation Demands",
+    "Money Demands"
+  ],
+  "transcript": "This is Inspector Vijay Rathore from Mumbai Cyber Crime Branch. A non-bailable warrant has been issued against you by Supreme Court in a money laundering case. You are placed under digital arrest right now. Do not disconnect the video call or tell anyone. You must transfer the money of 2,50,000 rupees to the RBI verification account immediately to clear your Aadhaar and settle the case before police custody.",
+  "dialogue": [
+    {
+      "time": "00:00:05",
+      "speaker": "Caller (Fake Inspector)",
+      "text": "Hello, am I speaking with the holder of Aadhaar card ending in 4921? This is Inspector Vijay Rathore from Mumbai Cyber Crime Branch calling regarding urgent criminal proceedings."
+    },
+    {
+      "time": "00:00:18",
+      "speaker": "Citizen (Victim)",
+      "text": "Yes, this is me. What is this regarding, sir? I haven't done anything wrong."
+    },
+    {
+      "time": "00:00:27",
+      "speaker": "Caller (Fake Inspector)",
+      "text": "A non-bailable warrant has been issued against you by Supreme Court in a 45 crore money laundering case. 16 fake accounts across Maharashtra are registered under your name. You are placed under digital arrest right now."
+    },
+    {
+      "time": "00:00:46",
+      "speaker": "Citizen (Victim)",
+      "text": "What does digital arrest mean? Can I call my lawyer or speak to my family?"
+    },
+    {
+      "time": "00:00:54",
+      "speaker": "Caller (Fake Inspector)",
+      "text": "Listen to me very carefully. You are forbidden to leave this room. Do not disconnect the video call and keep your camera turned on continuously. Do not consult family or lawyer, as this investigation is classified under national security secrets. If you hang up, local police squad will arrive in 20 minutes to take you into custody."
+    },
+    {
+      "time": "00:01:21",
+      "speaker": "Citizen (Victim)",
+      "text": "Please, sir, I am an ordinary citizen. How do I clear my name?"
+    },
+    {
+      "time": "00:01:30",
+      "speaker": "Caller (Fake Inspector)",
+      "text": "To clear your Aadhaar from the terror funding list, Supreme Court rules mandate asset verification. You must transfer the money of 2,50,000 rupees to the RBI verification account immediately via RTGS before 5 PM today. Once verified, this refundable deposit will be credited back and clean chit issued."
+    }
+  ]
+}
